@@ -1,5 +1,7 @@
 # Глеб — личная визитка
 
+Живая версия: **https://manicbylmenqwe-dev.github.io/gleb-card/**
+
 Мини-сайт с контактами: Telegram, MAX и телефон. Сделан по образцу
 [zakhar-card](https://pirotekhnik163.github.io/zakhar-card/).
 
